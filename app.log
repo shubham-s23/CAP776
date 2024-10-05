@@ -1,0 +1,6 @@
+2024-10-05 13:29:49,699 - INFO - New user registered: shub@gmail.com
+2024-10-05 13:31:48,220 - INFO - User logged in: shub@gmail.com
+2024-10-05 13:35:13,369 - INFO - Fetched NEO data from NASA API
+2024-10-05 13:36:57,470 - INFO - User logged in: shub@gmail.com
+2024-10-05 13:37:03,803 - INFO - Fetched Solar System data from NASA API
+2024-10-05 13:37:37,645 - INFO - Program exited.
